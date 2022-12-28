@@ -21,4 +21,4 @@
 | 2 | Nguyễn Thành Trung | 19522432 | 19522432@gm.uit.edu.vn | https://github.com/trungtaos |
 
 # ĐỒ ÁN
-# *KEY INFORMATION EXTRACTION FROM RECEIPT*
+# *TOPIC CLASSIFICATION*
