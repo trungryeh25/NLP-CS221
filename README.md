@@ -1,4 +1,4 @@
-# CS331.M22.KHCL - THỊ GIÁC MÁY TÍNH NÂNG CAO - UIT
+# CS221.N21.KHCL - XỬ LÝ NGÔN NGỮ TỰ NHIÊN - UIT
 
 
 ## MỤC LỤC
